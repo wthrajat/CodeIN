@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  background: #fff;
+  background: rgb(0, 0, 0);
   font-size: 14px;
   font-weight: 400;
   font-family: "Open Sans", sans-serif;
@@ -840,7 +840,7 @@ hr {
   font-weight: 500;
   line-height: 26px;
   margin-bottom: 10px;
-  color: #6306af;
+  color: #d7c9e3;
 }
 
 .media-icons {
